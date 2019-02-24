@@ -30,3 +30,4 @@ library <- function(package){
 
 library(dplyr)
 library(magrittr)
+library(tidyr)
