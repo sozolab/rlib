@@ -5,7 +5,7 @@
 
 #abbreviation
 s = summary
-
+p = print
 
 # Make + for strings
 "+" <-function(x, y=0){
